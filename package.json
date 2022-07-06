@@ -1,0 +1,7 @@
+{
+  "name": "Xử lý bất đồng bộ 2",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}

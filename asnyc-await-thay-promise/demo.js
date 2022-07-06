@@ -7,7 +7,7 @@ async function getDivision(a,b){
 }
 async function f() {
     try {
-        let result = getDivision(6,2)
+        let result = await getDivision(6,2)
         console.log(result)
     }catch(e){
         console.log(e.message)
